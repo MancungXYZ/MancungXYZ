@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently looking for work
+ 🔭 I’m currently looking for work/job
  
  🌱 I’m currently learning **Next, Javaspringboot, Pyhton**
 
